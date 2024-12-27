@@ -15,7 +15,7 @@ This is a simple calculator application built using React Native, designed exclu
 
 ## Screenshots
 
-![Calculator App Screenshot](calculator_screenshot.jpg)
+<img src="calculator_screenshot.jpg" alt="Calculator App Screenshot" width="200"/>
 
 ## Installation
 
